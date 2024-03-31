@@ -72,3 +72,21 @@
     letter-spacing: 1.11px;
     color: #262626;
   }
+  .content-section2 {
+    margin-top: 182px;
+    margin-left: 180px;
+  }
+  .content-section2 h1 {
+    font-family: "Darker Grotesque", sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #111111;
+    letter-spacing: 5px;
+    opacity: 1;
+  }
+  .content-section2 p {
+    margin-top: 53px;
+    font-family: "Darker Grotesque", sans-serif;
+    font-size: 25px;
+    color: #262626;
+  }
