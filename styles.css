@@ -90,3 +90,36 @@
     font-size: 25px;
     color: #262626;
   }
+  .peoplesection {
+    width: 1260px;
+    height: 923px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 70px;
+    justify-content: space-around;
+  }
+  .peoplesectionwrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .wrapperbox {
+    text-align: center;
+    align-content: center;
+  }
+  .desingerphoto {
+    width: 199px;
+    height: 195px;
+    border-radius: 50%;
+  }
+  .desingerspan1 {
+    font-size: 17px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    display: block;
+  }
+  
